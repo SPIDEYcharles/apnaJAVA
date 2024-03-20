@@ -1,5 +1,4 @@
 
-
 public class binarySearch {
 
     public static int BinSearch(int []duck,int key){
